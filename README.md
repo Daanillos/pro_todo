@@ -11,7 +11,7 @@ Web based TODO list written in Python
 
 ## Database
 
-- [Mongo DB](https://www.mongodb.com/)
+- [Mongo DB](https://www.mongodb.com/) - NoSQL Database
 
 ## UI
 
