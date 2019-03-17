@@ -1,6 +1,6 @@
 # PRO TODO
 
-## Web based TODO list written in Python
+Web based TODO list written in Python
 
 # Technologies:
 
